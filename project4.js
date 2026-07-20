@@ -19,6 +19,5 @@ stok.forEach((jumlahStok, index) => {
 });
 
 console.log("--------------------------");
-
 console.log(`Jumlah barang yang habis   : ${barangHabis}`);
 console.log(`Jumlah barang yang tersedia: ${barangTersedia}`);
